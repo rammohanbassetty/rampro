@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rampro/static/css/main.e0719db1.css",
+    "main.js": "/rampro/static/js/main.9af53589.js",
+    "static/js/239.9780f07f.chunk.js": "/rampro/static/js/239.9780f07f.chunk.js",
+    "static/js/213.f142d514.chunk.js": "/rampro/static/js/213.f142d514.chunk.js",
+    "static/js/455.9ab35c44.chunk.js": "/rampro/static/js/455.9ab35c44.chunk.js",
+    "index.html": "/rampro/index.html",
+    "main.e0719db1.css.map": "/rampro/static/css/main.e0719db1.css.map",
+    "main.9af53589.js.map": "/rampro/static/js/main.9af53589.js.map",
+    "239.9780f07f.chunk.js.map": "/rampro/static/js/239.9780f07f.chunk.js.map",
+    "213.f142d514.chunk.js.map": "/rampro/static/js/213.f142d514.chunk.js.map",
+    "455.9ab35c44.chunk.js.map": "/rampro/static/js/455.9ab35c44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0719db1.css",
+    "static/js/main.9af53589.js"
+  ]
+}
